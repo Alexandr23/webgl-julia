@@ -10,7 +10,7 @@ export const Cop = () => {
   const handleStart = React.useCallback(() => {
     setIsStarted(true);
 
-    worldRef.current = new CopRenderer();
+    worldRef.current = new CopRenderer({});
   }, [isStarted]);
 
   return (
