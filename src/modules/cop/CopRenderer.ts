@@ -361,28 +361,32 @@ export class CopRenderer {
       "./content/j/j7.jpeg",
       new THREE.Vector3(-4.49, 1.5, -2.5),
       new THREE.Vector3(0, Math.PI / 2, 0),
-      [1, 1, 0.02]
+      [1, 1, 0.02],
+      "./content/j/j29.jpeg"
     );
 
     this.addImage(
       "./content/j/j1.jpeg",
       new THREE.Vector3(-4.49, 1.5, -1),
       new THREE.Vector3(0, Math.PI / 2, 0),
-      [1, 1, 0.02]
+      [1, 1, 0.02],
+      "./content/j/j26.jpeg"
     );
 
     this.addImage(
       "./content/j/j2.jpeg",
       new THREE.Vector3(-4.49, 1.5, 0.5),
       new THREE.Vector3(0, Math.PI / 2, 0),
-      [1, 1, 0.02]
+      [1, 1, 0.02],
+      "./content/j/j27.jpeg"
     );
 
     this.addImage(
       "./content/j/j3.jpeg",
       new THREE.Vector3(-4.49, 1.5, 2),
       new THREE.Vector3(0, Math.PI / 2, 0),
-      [1, 1, 0.02]
+      [1, 1, 0.02],
+      "./content/j/j28.jpeg"
     );
 
     this.addImage(
@@ -419,7 +423,8 @@ export class CopRenderer {
       "./content/j/j6.jpeg",
       new THREE.Vector3(-4.49, 3.75, -0.25),
       new THREE.Vector3(0, Math.PI / 2, 0),
-      [2.5, 2.5, 0.02]
+      [2.5, 2.5, 0.02],
+      "./content/j/j25.jpeg"
     );
 
     this.addImage(
